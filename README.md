@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UI/UX Design, Dart and Flutter.**
 
-- 📫 How to reach me **SkrapiCoco#6436**
+- 📫 How to reach me [Discord] **SkrapiCoco#6436**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
